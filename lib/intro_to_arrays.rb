@@ -1,3 +1,3 @@
 def instaniate_new_array
-	Array.new
+	my_new_arrya = Array.new
 end
